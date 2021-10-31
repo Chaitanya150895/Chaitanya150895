@@ -1,4 +1,4 @@
-Database Developer | DBA (SQL Server) | Python Learner
+Database Developer | DBA (SQL Server) | Python | Tableau | Power BI | ETL
 
 Procure an influential position to simplify the complex tasks, design and implement the highly simplified
 as well as concrete solution in the field of design, development, and maintenance
